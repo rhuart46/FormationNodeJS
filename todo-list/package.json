@@ -1,0 +1,25 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Projet de TODO list",
+  "main": "app.js",
+  "scripts": {
+    "dev": "clear && nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhuart46/FormationNodeJS.git"
+  },
+  "author": "Robin Huart",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rhuart46/FormationNodeJS/issues"
+  },
+  "homepage": "https://github.com/rhuart46/FormationNodeJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
