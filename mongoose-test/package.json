@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhuart46/FormationNodeJS.git"
+  },
+  "author": "Robin Huart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhuart46/FormationNodeJS/issues"
+  },
+  "homepage": "https://github.com/rhuart46/FormationNodeJS#readme",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
+}
