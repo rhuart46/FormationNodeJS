@@ -1,0 +1,28 @@
+{
+  "name": "phototheque",
+  "version": "1.0.0",
+  "description": "Projet éducatif consistant à créer une photothèque basique",
+  "main": "index.js",
+  "scripts": {
+    "dev": "clear && nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhuart46/FormationNodeJS.git"
+  },
+  "author": "Robin Huart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhuart46/FormationNodeJS/issues"
+  },
+  "homepage": "https://github.com/rhuart46/FormationNodeJS#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "express-session": "^1.17.3",
+    "mongoose": "^7.0.3"
+  }
+}
